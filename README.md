@@ -23,7 +23,7 @@ A planilha de exemplo fornecida neste projeto classifica automaticamente os gast
 Para utilizar a planilha de exemplo, siga os passos abaixo:
 
 1. Acesse o link para a [planilha de exemplo](https://docs.google.com/spreadsheets/d/16t6F6dvD1AB1jmNrgl89_RsZ4jjnJeZWmxukPC1G2ns/edit?usp=sharing).
-2. Na planilha, selecione a célula A1 e cole os dados da fatura de cartão de crédito que você exportou do arquivo .csv.
+2. Na planilha, selecione a célula A5 e cole os dados da fatura de cartão de crédito que você exportou do arquivo .csv.
 3. Utilize a opção "separar colunas por vírgulas" para formatar os dados corretamente.
 4. A planilha irá classificar automaticamente a maioria dos gastos em diferentes categorias. Verifique se os gastos foram corretamente classificados e ajuste manualmente aqueles que não foram classificados corretamente (estarão destacados em verde).
 5. Utilize a tabela de resumo à direita para ver uma visão geral de seus gastos por categorias. Caso haja discrepância entre a soma dos dados classificados e os dados totais, a planilha indicará isso com a cor amarela no valor da soma dos gastos classificados.
