@@ -30,7 +30,7 @@ Para utilizar a planilha de exemplo, siga os passos abaixo:
 
 ## Detalhes técnicos
 
-O projeto faz uso de conceitos básicos de programação, como leitura e escrita de arquivos, manipulação de listas e dicionários, bem como o uso da biblioteca Pandas para criar um DataFrame. Além disso, o projeto faz uso de recursos de data e hora do computador para nomear o arquivo .csv exportado.
+O projeto faz uso de conceitos básicos de programação, como leitura e escrita de arquivos, manipulação de listas e dicionários, bem como o uso da biblioteca Pandas para criar um DataFrame e fórmulas intermediárias e avançadas para visualização dos dados no Google Sheets. Além disso, o projeto faz uso de recursos de data e hora do computador para nomear o arquivo .csv exportado.
 
 ## Licença
 
